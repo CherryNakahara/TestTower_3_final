@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/jianjie.png</file>
+        <file>image/start.png</file>
+        <file>image/fanhui.png</file>
+        <file>image/introduction.png</file>
+        <file>image/map1.png</file>
+        <file>image/map2.png</file>
+        <file>image/fail.png</file>
+        <file>image/victory.png</file>
+        <file>image/tower.png</file>
+        <file>image/buff.png</file>
+        <file>image/fire.png</file>
+        <file>image/ice.png</file>
+        <file>image/bullet.png</file>
+        <file>image/fire_bullet.png</file>
+        <file>image/ice_bullet.png</file>
+        <file>image/enemy_1.png</file>
+        <file>image/enemy_2.png</file>
+        <file>image/enemy_3.png</file>
+        <file>image/city.png</file>
+    </qresource>
+</RCC>
